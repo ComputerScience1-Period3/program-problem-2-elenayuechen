@@ -55,3 +55,4 @@ void main() {
 	cout << calc_4 << "/" << calc_1 << "=" << calc_4 / calc_1 << endl;
 	pause();
 }
+//create a condition that checks for invalid inputs
