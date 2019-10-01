@@ -25,9 +25,9 @@ void main() {
 	double price; // how much does a bottle of water cost? 
 	int calc_1, calc_2, calc_3, calc_4;
 	//user queries
-	cout << "what grade level are you in? answer w/ a number";
+	cout << "what grade level are you in? answer Int";
 	cin >> gradelevel;
-	cout << "what grade do you gave in english? answer w/ a number";
+	cout << "what grade do you gave in english? answer Int";
 	cin >> grade;
 	cout << "what's you english teacher's lastname initial? answer with a capital leter";
 	cin >> teacher;
@@ -35,7 +35,7 @@ void main() {
 	cin >> favor;
 	cout << "what is the price of your water bottle?";
 	cin >> price;
-    cout << "enter a number : ";
+    	cout << "enter a number : ";
 	cin >> calc_1;
 	cout << "enter a number : ";
 	cin >> calc_2;
